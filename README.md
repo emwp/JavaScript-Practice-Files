@@ -21,5 +21,11 @@ Simple Loan Calculator. Practicing DOM Manipulation, Events, Error Handling, UI.
 
 Built With: HTML5, Bootstrap, CSS and Javascript.
 ```
+```
+3 - Number Guesser
 
+Very simple game. User has to guess a number, the game will tell you if you won, lost or how many attemps you have left.
+
+Built With: HTML5, Skeleton and Javascript.
+```
 
