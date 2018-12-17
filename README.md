@@ -7,20 +7,22 @@ LINK:
 [Modern JavaScrip From the Beggining](https://www.udemy.com/modern-javascript-from-the-beginning/)
 
 ```
-1 - Task List 
+1 - Task List
 
 Project to practice mostly DOM manipulation with vanilla JS.
 Add tasks; Remove Tasks; Filter through tasks, DOM manipulation, Local storage.
 
 Built With: HTML5,CSS and JavaScript.
 ```
+
 ```
-2 - Loan Calculator 
+2 - Loan Calculator
 
 Simple Loan Calculator. Practicing DOM Manipulation, Events, Error Handling, UI.
 
 Built With: HTML5, Bootstrap, CSS and Javascript.
 ```
+
 ```
 3 - Number Guesser
 
@@ -29,3 +31,14 @@ Very simple game. User has to guess a number, the game will tell you if you won,
 Built With: HTML5, Skeleton and Javascript.
 ```
 
+```
+4 - Book List
+
+Simple web app where the user can add a book containing the title, author and isbn.
+
+This project revolves around Object Oriented Programming (OOP) and makes use of ES5 Syntax with constructors and prototypes.
+
+Also was made a version using ES6 Syntax with Classes.
+
+Built With: HTML5, Skeleton and Javascript.
+```
