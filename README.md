@@ -42,3 +42,26 @@ Also was made a version using ES6 Syntax with Classes.
 
 Built With: HTML5, Skeleton and Javascript.
 ```
+```
+5 - Chuck Norris Joke Generator
+
+Very simple joke generator. 
+Using HTTP GET Requests to retrieve from the API
+
+Built With: HTML5, Skeleton and Javascript.
+```
+
+```
+6 - EasyHTTP Lib for HTTP requests
+
+Built a little library to make GET, POST, PUT and DELETE requests to an API.
+
+Built With: Javascript.
+```
+```
+7 - FETCH API
+
+Page to make fetch API requests using data from a text file, json file and url.
+
+Built With: Javascript, HTML5 and Skeleton CSS.
+```
