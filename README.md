@@ -65,3 +65,10 @@ Page to make fetch API requests using data from a text file, json file and url.
 
 Built With: Javascript, HTML5 and Skeleton CSS.
 ```
+```
+8 - Arrow Functions
+
+Learning and practicing the use of arrow functions.
+
+Built With: Javascript.
+```
