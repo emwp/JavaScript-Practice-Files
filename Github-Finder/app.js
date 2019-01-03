@@ -1,6 +1,9 @@
 // Initialize Github class
 const github = new GitHub();
 
+// Initialize UI class
+const ui = new UI();
+
 // Caching the search component
 const searchUser = document.querySelector('#search-user');
 
@@ -16,6 +19,7 @@ searchUser.addEventListener('keyup', e => {
         // Show Alert
       } else {
         // Show the user
+        ui.showProfile(data.profile);
       }
     });
   } else {
