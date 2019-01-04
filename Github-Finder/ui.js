@@ -32,4 +32,46 @@ class UI {
       <div id="repos"></div>
     `;
   }
+
+  // SHOW ALERT MESSAGE WHEN NO PROFILE IS FOUND
+  showAlert(msg, className) {
+    // CLEAR ANY REMAINING ALERT
+    this.clearAlert();
+
+    const div = document.createElement('div');
+
+    // INSERTING CLASS INTO THE DIV
+    div.className = className;
+
+    // ADD TEXT
+    div.appendChild(document.createTextNode(msg));
+
+    // GET CONTAINER/PARENT
+    const container = document.querySelector('.searchContainer');
+
+    // GET THE SEARCH BOX
+    const search = document.querySelector('.search');
+
+    // INSERT ALERT
+    container.insertBefore(div, search);
+
+    // TIMEOUT AFTER 3 SECONDS
+    setTimeout(() => {
+      this.clearAlert();
+    }, 3000);
+  }
+
+  // CLEAR ALERT MSG
+  clearAlert() {
+    const currentAlert = document.querySelector('.alert');
+
+    if (currentAlert) {
+      currentAlert.remove();
+    }
+  }
+
+  // CLEAR THE UI WHEN THE ENTRY IS DELETED
+  clearProfile() {
+    this.profile.innerHTML = '';
+  }
 }
