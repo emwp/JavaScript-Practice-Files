@@ -42,10 +42,11 @@ Also was made a version using ES6 Syntax with Classes.
 
 Built With: HTML5, Skeleton and Javascript.
 ```
+
 ```
 5 - Chuck Norris Joke Generator
 
-Very simple joke generator. 
+Very simple joke generator.
 Using HTTP GET Requests to retrieve from the API
 
 Built With: HTML5, Skeleton and Javascript.
@@ -58,6 +59,7 @@ Built a little library to make GET, POST, PUT and DELETE requests to an API.
 
 Built With: Javascript.
 ```
+
 ```
 7 - FETCH API
 
@@ -65,10 +67,37 @@ Page to make fetch API requests using data from a text file, json file and url.
 
 Built With: Javascript, HTML5 and Skeleton CSS.
 ```
+
 ```
 8 - Arrow Functions
 
 Learning and practicing the use of arrow functions.
 
 Built With: Javascript.
+```
+
+```
+9 - GitHub Finder
+
+Find and display GitHub user profile and their repos. Using the GitHub API.
+
+Built With: Javascript, Bootstrap, GitHub API.
+```
+
+```
+10 - Tracalorie
+
+Add Meals or food items with their respective caloric values.
+Build using the module design pattern
+
+Built With: Javascript, Materialize CSS.
+```
+
+```
+11 - MicroPosts
+
+Full CRUD Aplication. Using the JSON Server to create a fake REST API.
+Alows to create and edit posts. Similar to Twitter.
+
+Built With: Javascript, Bootstrap, Webpack/Babel, JSON Server.
 ```
